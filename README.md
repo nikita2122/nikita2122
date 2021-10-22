@@ -9,4 +9,6 @@ Expertises:
 Happy to learn new techniques and to solve challenges. 
 
 # Skype
-live:.cid.e645ccf5b2dd4970
+Please contact me via Skype if you don't mind. Skype ID is as followings. 
+
+`live:.cid.e645ccf5b2dd4970`
