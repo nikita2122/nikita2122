@@ -8,7 +8,6 @@ Expertises:
 
 Happy to learn new techniques and to solve challenges. 
 
-# Skype
-Please contact me via Skype if you don't mind. Skype ID is as followings. 
-
-`live:.cid.e645ccf5b2dd4970`
+# Skype Name: *`live:.cid.e645ccf5b2dd4970`*
+Please contact me via Skype if you don't mind.
+My Skype name is *`live:.cid.e645ccf5b2dd4970`*
