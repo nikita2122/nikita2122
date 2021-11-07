@@ -7,7 +7,3 @@ Expertises:
 - Blockchain, DApp, P2P Exchange with Bitcoin and Ethereum, Solidity, Web3
 
 Happy to learn new techniques and to solve challenges. 
-
-# Skype Name: *`live:.cid.e645ccf5b2dd4970`*
-Please contact me via Skype if you don't mind.
-My Skype name is *`live:.cid.e645ccf5b2dd4970`*
