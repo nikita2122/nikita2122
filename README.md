@@ -7,3 +7,4 @@ Expertises:
 - Blockchain, DApp, P2P Exchange with Bitcoin and Ethereum, Solidity, Web3
 
 Happy to learn new techniques and to solve challenges. 
+Skype: live:stevenc_91
