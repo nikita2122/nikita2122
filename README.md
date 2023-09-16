@@ -4,5 +4,5 @@ I'm good at C#, PHP and Python. <br/>
 I've got experience in <b>React / Vue / Angular + Node / ASP.NET Core.. </b><br/>
  <br/>
  <h4>📫 How to reach me ... </h4>
-This is my ✅Skype ID <br/>
-<b>live:stevenc_91</b> <br/>
+This is my ✅Email<br/>
+<b>nikita.rgc@gmail.com</b> <br/>
